@@ -22,7 +22,7 @@ requirements:
     - python >=3.7
     - numpy
     - scipy
-    - matplotlib
+    - matplotlib-base
 
 test:
   imports:
