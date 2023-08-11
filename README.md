@@ -1,11 +1,11 @@
-About pymcdm
-============
+About pymcdm-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pymcdm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://gitlab.com/shekhand/mcda
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pymcdm-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python library for Multi-Criteria Decision-Making
 
