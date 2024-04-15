@@ -1,5 +1,5 @@
 {% set name = "pymcdm" %}
-{% set version = "1.1.0" %}
+{% set version = "1.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pymcdm-{{ version }}.tar.gz
-  sha256: 537ec492c3a35bc544ec0a68ae747add9fbe369fde8abba4830223839d8f3121
+  sha256: 6a601b5d6a2c0bc55b5f21737849e8149ea5ee704c45463e43457de2195d7578
 
 build:
   noarch: python
